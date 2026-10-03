@@ -1,0 +1,7 @@
+torch>=2.2
+numpy>=1.26
+networkx>=3.2
+matplotlib>=3.8
+pandas>=2.2
+streamlit>=1.40
+pytest>=8.0
