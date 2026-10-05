@@ -2,6 +2,10 @@
 
 A complete three-phase implementation of a Vanilla Graph Convolutional Network (GCN), designed for an algorithm assignment and GitHub portfolio.
 
+## Live Demo
+
+Streamlit app: https://vanilla-gcn-assignment-n7wrkagnhadcthu3q9omtj.streamlit.app/
+
 ## Assignment phases
 
 ### Phase 1 — Basic understanding
@@ -38,4 +42,4 @@ Create a Python environment, install `requirements.txt`, then run `src/train.py`
 
 ## Deployment
 
-The repository is ready for Streamlit Community Cloud, Railway, or another Python hosting platform. The app entrypoint is `app.py`.
+The application is deployed on Streamlit Community Cloud. The app entrypoint is `app.py`.
